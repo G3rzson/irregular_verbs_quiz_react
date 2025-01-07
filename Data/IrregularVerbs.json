@@ -1,0 +1,710 @@
+[
+    {
+        "word": "lenni",
+        "infinitive": "be",
+        "past_simple": "was/were",
+        "past_participle": "been"
+    },
+    {
+        "word": "verni",
+        "infinitive": "beat",
+        "past_simple": "beat",
+        "past_participle": "beaten"
+    },
+    {
+        "word": "valakivé, valamivé válni",
+        "infinitive": "become",
+        "past_simple": "became",
+        "past_participle": "become"
+    },
+    {
+        "word": "kezdeni",
+        "infinitive": "begin",
+        "past_simple": "began",
+        "past_participle": "begun"
+    },
+    {
+        "word": "hajlítani",
+        "infinitive": "bend",
+        "past_simple": "bent",
+        "past_participle": "bent"
+    },
+    {
+        "word": "fogadani",
+        "infinitive": "bet",
+        "past_simple": "bet",
+        "past_participle": "bet"
+    },
+    {
+        "word": "harapni",
+        "infinitive": "bite",
+        "past_simple": "bit",
+        "past_participle": "bitten"
+    },
+    {
+        "word": "kötni",
+        "infinitive": "bind",
+        "past_simple": "bound",
+        "past_participle": "bound"
+    },
+    {
+        "word": "fújni",
+        "infinitive": "blow",
+        "past_simple": "blew",
+        "past_participle": "blown"
+    },
+    {
+        "word": "törni",
+        "infinitive": "break",
+        "past_simple": "broke",
+        "past_participle": "broken"
+    },
+    {
+        "word": "hozni",
+        "infinitive": "bring",
+        "past_simple": "brought",
+        "past_participle": "brought"
+    },
+    {
+        "word": "közvetíteni",
+        "infinitive": "broadcast",
+        "past_simple": "broadcast",
+        "past_participle": "broadcast"
+    },
+    {
+        "word": "építeni",
+        "infinitive": "build",
+        "past_simple": "built",
+        "past_participle": "built"
+    },
+    {
+        "word": "égetni",
+        "infinitive": "burn",
+        "past_simple": "burnt",
+        "past_participle": "burnt"
+    },
+    {
+        "word": "robbanni",
+        "infinitive": "burst",
+        "past_simple": "burst",
+        "past_participle": "burst"
+    },
+    {
+        "word": "venni",
+        "infinitive": "buy",
+        "past_simple": "bought",
+        "past_participle": "bought"
+    },
+    {
+        "word": "elkapni",
+        "infinitive": "catch",
+        "past_simple": "caught",
+        "past_participle": "caught"
+    },
+    {
+        "word": "választani",
+        "infinitive": "choose",
+        "past_simple": "chose",
+        "past_participle": "chosen"
+    },
+    {
+        "word": "jönni",
+        "infinitive": "come",
+        "past_simple": "came",
+        "past_participle": "come"
+    },
+    {
+        "word": "valamibe kerül",
+        "infinitive": "cost",
+        "past_simple": "cost",
+        "past_participle": "cost"
+    },
+    {
+        "word": "kúszni",
+        "infinitive": "creep",
+        "past_simple": "crept",
+        "past_participle": "crept"
+    },
+    {
+        "word": "vágni",
+        "infinitive": "cut",
+        "past_simple": "cut",
+        "past_participle": "cut"
+    },
+    {
+        "word": "bánni",
+        "infinitive": "deal",
+        "past_simple": "dealt",
+        "past_participle": "dealt"
+    },
+    {
+        "word": "ásni",
+        "infinitive": "dig",
+        "past_simple": "dug",
+        "past_participle": "dug"
+    },
+    {
+        "word": "csinálni",
+        "infinitive": "do",
+        "past_simple": "did",
+        "past_participle": "done"
+    },
+    {
+        "word": "rajzolni",
+        "infinitive": "draw",
+        "past_simple": "drew",
+        "past_participle": "drawn"
+    },
+    {
+        "word": "inni",
+        "infinitive": "drink",
+        "past_simple": "drank",
+        "past_participle": "drunk"
+    },
+    {
+        "word": "vezetni járművet",
+        "infinitive": "drive",
+        "past_simple": "drove",
+        "past_participle": "driven"
+    },
+    {
+        "word": "enni",
+        "infinitive": "eat",
+        "past_simple": "ate",
+        "past_participle": "eaaten"
+    },
+    {
+        "word": "esni",
+        "infinitive": "fall",
+        "past_simple": "felt",
+        "past_participle": "fallen"
+    },
+    {
+        "word": "etetni",
+        "infinitive": "feed",
+        "past_simple": "fed",
+        "past_participle": "fed"
+    },
+    {
+        "word": "érezni",
+        "infinitive": "feel",
+        "past_simple": "felt",
+        "past_participle": "felt"
+    },
+    {
+        "word": "harcolni",
+        "infinitive": "fight",
+        "past_simple": "fought",
+        "past_participle": "fought"
+    },
+    {
+        "word": "találni",
+        "infinitive": "find",
+        "past_simple": "found",
+        "past_participle": "found"
+    },
+    {
+        "word": "menekülni",
+        "infinitive": "flee",
+        "past_simple": "fled",
+        "past_participle": "fled"
+    },
+    {
+        "word": "repülni",
+        "infinitive": "fly",
+        "past_simple": "flew",
+        "past_participle": "flown"
+    },
+    {
+        "word": "megtíltani",
+        "infinitive": "forbid",
+        "past_simple": "forbade",
+        "past_participle": "forbidden"
+    },
+    {
+        "word": "elfelejteni",
+        "infinitive": "forget",
+        "past_simple": "forgot",
+        "past_participle": "forgotten"
+    },
+    {
+        "word": "megbocsátani",
+        "infinitive": "forgive",
+        "past_simple": "forgave",
+        "past_participle": "forgiven"
+    },
+    {
+        "word": "megfagyni",
+        "infinitive": "freeze",
+        "past_simple": "froze",
+        "past_participle": "frozen"
+    },
+    {
+        "word": "kapni",
+        "infinitive": "get",
+        "past_simple": "got",
+        "past_participle": "got/gotten"
+    },
+    {
+        "word": "adni",
+        "infinitive": "give",
+        "past_simple": "gave",
+        "past_participle": "given"
+    },
+    {
+        "word": "menni",
+        "infinitive": "go",
+        "past_simple": "went",
+        "past_participle": "gone"
+    },
+    {
+        "word": "nőni",
+        "infinitive": "grow",
+        "past_simple": "grew",
+        "past_participle": "grown"
+    },
+    {
+        "word": "lógni",
+        "infinitive": "hang",
+        "past_simple": "hung",
+        "past_participle": "hung"
+    },
+    {
+        "word": "birtokolni",
+        "infinitive": "have",
+        "past_simple": "had",
+        "past_participle": "had"
+    },
+    {
+        "word": "hallani",
+        "infinitive": "hear",
+        "past_simple": "heard",
+        "past_participle": "heard"
+    },
+    {
+        "word": "elrejtőzni",
+        "infinitive": "hide",
+        "past_simple": "hid",
+        "past_participle": "hidden"
+    },
+    {
+        "word": "ütni",
+        "infinitive": "hit",
+        "past_simple": "hit",
+        "past_participle": "hit"
+    },
+    {
+        "word": "tartani",
+        "infinitive": "hold",
+        "past_simple": "held",
+        "past_participle": "held"
+    },
+    {
+        "word": "megsérülni",
+        "infinitive": "hurt",
+        "past_simple": "hurt",
+        "past_participle": "hurt"
+    },
+    {
+        "word": "tartani",
+        "infinitive": "keep",
+        "past_simple": "kept",
+        "past_participle": "kept"
+    },
+    {
+        "word": "letérdelni",
+        "infinitive": "kneel",
+        "past_simple": "knelt",
+        "past_participle": "knelt"
+    },
+    {
+        "word": "tudni",
+        "infinitive": "know",
+        "past_simple": "knew",
+        "past_participle": "known"
+    },
+    {
+        "word": "feküdni",
+        "infinitive": "lay",
+        "past_simple": "laid",
+        "past_participle": "laid"
+    },
+    {
+        "word": "vezetni embereket",
+        "infinitive": "lead",
+        "past_simple": "led",
+        "past_participle": "led"
+    },
+    {
+        "word": "elhagyni",
+        "infinitive": "leave",
+        "past_simple": "left",
+        "past_participle": "left"
+    },
+    {
+        "word": "kölcsönadni",
+        "infinitive": "lend",
+        "past_simple": "lent",
+        "past_participle": "lent"
+    },
+    {
+        "word": "hagyni",
+        "infinitive": "let",
+        "past_simple": "let",
+        "past_participle": "let"
+    },
+    {
+        "word": "feküdni",
+        "infinitive": "lei",
+        "past_simple": "lay",
+        "past_participle": "lain"
+    },
+    {
+        "word": "meggyújtani",
+        "infinitive": "light",
+        "past_simple": "lit",
+        "past_participle": "lit"
+    },
+    {
+        "word": "elveszíteni",
+        "infinitive": "lose",
+        "past_simple": "lost",
+        "past_participle": "lost"
+    },
+    {
+        "word": "készíteni",
+        "infinitive": "make",
+        "past_simple": "made",
+        "past_participle": "made"
+    },
+    {
+        "word": "jelenteni valamit",
+        "infinitive": "mean",
+        "past_simple": "meant",
+        "past_participle": "meant"
+    },
+    {
+        "word": "találkozni",
+        "infinitive": "meet",
+        "past_simple": "met",
+        "past_participle": "met"
+    },
+    {
+        "word": "fizetni",
+        "infinitive": "pay",
+        "past_simple": "paid",
+        "past_participle": "paid"
+    },
+    {
+        "word": "tenni, rakni",
+        "infinitive": "put",
+        "past_simple": "put",
+        "past_participle": "put"
+    },
+    {
+        "word": "olvasni",
+        "infinitive": "read",
+        "past_simple": "read",
+        "past_participle": "read"
+    },
+    {
+        "word": "lovagolni, utazni járművön",
+        "infinitive": "ride",
+        "past_simple": "rode",
+        "past_participle": "ridden"
+    },
+    {
+        "word": "csörögni",
+        "infinitive": "ring",
+        "past_simple": "rang",
+        "past_participle": "rung"
+    },
+    {
+        "word": "emelkedni, felkelni",
+        "infinitive": "rise",
+        "past_simple": "rose",
+        "past_participle": "risen"
+    },
+    {
+        "word": "futni",
+        "infinitive": "run",
+        "past_simple": "ran",
+        "past_participle": "run"
+    },
+    {
+        "word": "mondani",
+        "infinitive": "say",
+        "past_simple": "said",
+        "past_participle": "said"
+    },
+    {
+        "word": "látni",
+        "infinitive": "see",
+        "past_simple": "saw",
+        "past_participle": "seen"
+    },
+    {
+        "word": "keresni",
+        "infinitive": "seek",
+        "past_simple": "sought",
+        "past_participle": "sought"
+    },
+    {
+        "word": "eladni",
+        "infinitive": "sell",
+        "past_simple": "sold",
+        "past_participle": "sold"
+    },
+    {
+        "word": "küldeni",
+        "infinitive": "send",
+        "past_simple": "sent",
+        "past_participle": "sent"
+    },
+    {
+        "word": "beállítani, tenni",
+        "infinitive": "set",
+        "past_simple": "set",
+        "past_participle": "set"
+    },
+    {
+        "word": "varrni",
+        "infinitive": "sew",
+        "past_simple": "sewed",
+        "past_participle": "sewn/sewed"
+    },
+    {
+        "word": "rázni",
+        "infinitive": "shake",
+        "past_simple": "shook",
+        "past_participle": "shaken"
+    },
+    {
+        "word": "ragyogni",
+        "infinitive": "shine",
+        "past_simple": "shone",
+        "past_participle": "shone"
+    },
+    {
+        "word": "lőni",
+        "infinitive": "shoot",
+        "past_simple": "shot",
+        "past_participle": "shot"
+    },
+    {
+        "word": "mutatni",
+        "infinitive": "show",
+        "past_simple": "showed",
+        "past_participle": "shown/showed"
+    },
+    {
+        "word": "zsugorodni",
+        "infinitive": "schrink",
+        "past_simple": "schrank",
+        "past_participle": "schrunk"
+    },
+    {
+        "word": "becsukni",
+        "infinitive": "shut",
+        "past_simple": "shut",
+        "past_participle": "shut"
+    },
+    {
+        "word": "énekelni",
+        "infinitive": "sing",
+        "past_simple": "sang",
+        "past_participle": "sung"
+    },
+    {
+        "word": "elsüllyedni",
+        "infinitive": "sink",
+        "past_simple": "sank",
+        "past_participle": "sunk"
+    },
+    {
+        "word": "ülni",
+        "infinitive": "sit",
+        "past_simple": "sat",
+        "past_participle": "sat"
+    },
+    {
+        "word": "aludni",
+        "infinitive": "sleep",
+        "past_simple": "slept",
+        "past_participle": "slept"
+    },
+    {
+        "word": "csúszni",
+        "infinitive": "slide",
+        "past_simple": "slid",
+        "past_participle": "slid"
+    },
+    {
+        "word": "beszélni",
+        "infinitive": "speak",
+        "past_simple": "spoke",
+        "past_participle": "spoken"
+    },
+    {
+        "word": "költeni",
+        "infinitive": "spend",
+        "past_simple": "spent",
+        "past_participle": "spent"
+    },
+    {
+        "word": "köpni",
+        "infinitive": "spit",
+        "past_simple": "spat",
+        "past_participle": "spat"
+    },
+    {
+        "word": "hasítani",
+        "infinitive": "split",
+        "past_simple": "split",
+        "past_participle": "split"
+    },
+    {
+        "word": "szétterjedni",
+        "infinitive": "spread",
+        "past_simple": "spread",
+        "past_participle": "spread"
+    },
+    {
+        "word": "ugrani",
+        "infinitive": "spring",
+        "past_simple": "sprang",
+        "past_participle": "sprung"
+    },
+    {
+        "word": "állni",
+        "infinitive": "stand",
+        "past_simple": "stood",
+        "past_participle": "stood"
+    },
+    {
+        "word": "lopni",
+        "infinitive": "steal",
+        "past_simple": "stole",
+        "past_participle": "stolen"
+    },
+    {
+        "word": "ragadni",
+        "infinitive": "stick",
+        "past_simple": "stuck",
+        "past_participle": "stuck"
+    },
+    {
+        "word": "csípni",
+        "infinitive": "sting",
+        "past_simple": "stung",
+        "past_participle": "stung"
+    },
+    {
+        "word": "bűzleni",
+        "infinitive": "stink",
+        "past_simple": "stank",
+        "past_participle": "stunk"
+    },
+    {
+        "word": "ütni, lecsapni",
+        "infinitive": "strike",
+        "past_simple": "struck",
+        "past_participle": "struck"
+    },
+    {
+        "word": "esküdni",
+        "infinitive": "swear",
+        "past_simple": "swore",
+        "past_participle": "sworn"
+    },
+    {
+        "word": "söpörni",
+        "infinitive": "sweep",
+        "past_simple": "swept",
+        "past_participle": "swept"
+    },
+    {
+        "word": "úszni",
+        "infinitive": "swim",
+        "past_simple": "swam",
+        "past_participle": "swum"
+    },
+    {
+        "word": "hintázni",
+        "infinitive": "swing",
+        "past_simple": "swung",
+        "past_participle": "swung"
+    },
+    {
+        "word": "venni",
+        "infinitive": "take",
+        "past_simple": "took",
+        "past_participle": "taken"
+    },
+    {
+        "word": "tanítani",
+        "infinitive": "teach",
+        "past_simple": "taught",
+        "past_participle": "taught"
+    },
+    {
+        "word": "tépni",
+        "infinitive": "tear",
+        "past_simple": "tore",
+        "past_participle": "torn"
+    },
+    {
+        "word": "mondani, közölni",
+        "infinitive": "tell",
+        "past_simple": "told",
+        "past_participle": "told"
+    },
+    {
+        "word": "gondolni",
+        "infinitive": "think",
+        "past_simple": "thought",
+        "past_participle": "thought"
+    },
+    {
+        "word": "dobni",
+        "infinitive": "throw",
+        "past_simple": "threw",
+        "past_participle": "thrown"
+    },
+    {
+        "word": "érteni",
+        "infinitive": "understand",
+        "past_simple": "understood",
+        "past_participle": "understood"
+    },
+    {
+        "word": "felébredni",
+        "infinitive": "wake",
+        "past_simple": "woke",
+        "past_participle": "woken"
+    },
+    {
+        "word": "viselni",
+        "infinitive": "wear",
+        "past_simple": "wore",
+        "past_participle": "worn"
+    },
+    {
+        "word": "sírni",
+        "infinitive": "weep",
+        "past_simple": "wept",
+        "past_participle": "wept"
+    },
+    {
+        "word": "nyerni",
+        "infinitive": "win",
+        "past_simple": "won",
+        "past_participle": "won"
+    },
+    {
+        "word": "írni",
+        "infinitive": "write",
+        "past_simple": "wrote",
+        "past_participle": "written"
+    }
+]
